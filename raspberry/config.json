@@ -1,6 +1,6 @@
 {
-    " wifi_ssid ": "IoT_Grupo_05",
-    " wifi_password ": "clavewifi",
+    " wifi_ssid ": "IoT_Grupo_06",
+    " wifi_password ": "clavewifi123",
     " mqtt_broker_uri ": " mqtt://192.168.10.1:1883",
     " sensors ": {
         " accel ": {

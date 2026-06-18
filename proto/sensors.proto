@@ -14,7 +14,7 @@ message TempSample {
 }
 
 message SensorEnvelope {
-string source_id = 1;
+    string source_id = 1;
     oneof payload {
         AccelSample accel = 2;
         TempSample temp = 3;
